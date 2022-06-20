@@ -88,15 +88,15 @@ footer{
     color: white !important;
 }
 .link-color{
-    color: rgb(4, 63, 63) !important;
+    color: rgb(5, 41, 70) !important;
    
 }
 .link-color:hover {
-    color: orange !important;
+    color: rgb(22, 148, 165) !important;
     text-decoration: none;
 }
 .btn-color:hover{
-    background-color: orange !important;
+    background-color: rgb(17, 133, 127) !important;
 }
 .login{
     width: 100%;
@@ -220,14 +220,15 @@ footer{
 .black{
     color: black;
 }
-.orange{
-    background-color: rgb(248, 189, 79,0.8);
+.orange{ 
+     background-color: rgba(79, 12, 85, 0.8);
+  
     font-family: 'BLKCHCRY', sans-serif;
 }
 .btn-outline-warning {
     border: solid 1px;
-    border-color: orange;
-    color: orange;
+    border-color: rgb(247, 0, 255);
+    color: rgb(120, 146, 216);
 }
 .bus-owner p, .post-hold p,.bus-owner h6,.post-hold h6,.contact-info p{
     margin: 0% !important;
